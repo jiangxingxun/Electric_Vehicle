@@ -29,6 +29,10 @@
 - package.json：整个项目的配置。 `package.json` 文件的 scripts 标签下列出了运行项目的命令行。一般使用 `yarn dev` 即可运行项目。
 
 ## Login
+
 account: root
 password: 1234
+
+## Contact
+Xingxun Jiang: jiangxingxun@seu.edu.cn; jiangxingxun@gmail.com
 
