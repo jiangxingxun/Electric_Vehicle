@@ -5,8 +5,8 @@
 
 ## Requirements
 - python >= 3.5.2 
-- nodejs
-- yarn
+- [nodejs](http://nodejs.cn/)
+- [yarn](https://yarn.bootcss.com/)
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
