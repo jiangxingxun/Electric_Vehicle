@@ -4,10 +4,14 @@
 *Xingxun Jiang: jiangxingxun@seu.edu.cn; jiangxingxun@gmail.com*
 
 ## Requirements
-- python 3.5.2 
-- nextjs
-- material-UI
+- python >= 3.5.2 
+- nodejs
+- yarn
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
+choco install yarn
+```
 
 ## Usage
 - Step1: run ```yarn dev ```
