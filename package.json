@@ -1,0 +1,24 @@
+{
+  "name": "new-map",
+  "version": "4.0.0",
+  "author": {
+    "name": "likexin",
+    "email": "hollalikexin@gmail.com"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.2.1",
+    "@material-ui/styles": "latest",
+    "clsx": "latest",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
