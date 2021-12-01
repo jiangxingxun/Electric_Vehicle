@@ -14,8 +14,11 @@ choco install yarn
 ```
 
 ## Usage
-- Step1: run ```yarn dev ```
-- Step2: browser ```http://localhost:3000/ ```
+- Step1: run 
+```yarn```
+```yarn dev ```
+- Step2: browser 
+```http://localhost:3000/ ```
 
 
 ## Files and Folders
